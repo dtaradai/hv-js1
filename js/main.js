@@ -289,5 +289,3 @@ function allValuesOfAnyArray(arrArr)
     }
   })
 }
-
-console.log(allValuesOfAnyArray(arrArr));
